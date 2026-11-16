@@ -7,7 +7,7 @@ import struct
 import sys
 import pygame
 
-API_URL = "http://127.0.0.1:8080"
+API_URL = "https://vn-history-game.onrender.com"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 WIDTH, HEIGHT = 1280, 720
