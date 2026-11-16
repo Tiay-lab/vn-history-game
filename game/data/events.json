@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "year": "40",
+    "era": "Thời kỳ Bắc thuộc",
+    "title": "Khởi nghĩa Hai Bà Trưng",
+    "location": "Mê Linh - Hát Môn",
+    "x": 452,
+    "y": 146,
+    "story": "Đầu thế kỷ I, nhà Đông Hán siết chặt ách đô hộ lên Giao Chỉ; thái thú Tô Định tham lam, tàn bạo, giết hại Thi Sách (chồng bà Trưng Trắc). Mùa xuân năm 40, tại cửa sông Hát (Hát Môn), Hai Bà Trưng lập đàn thề phất cờ khởi nghĩa với lời thề 'Một xin rửa sạch nước thù / Hai xin đem lại nghiệp xưa họ Hùng'. Nghĩa quân nhanh chóng đánh chiếm Mê Linh, Cổ Loa, Luy Lâu, buộc Tô Định phải cắt tóc cạo râu trốn về nước. Trưng Trắc lên ngôi vua (Trưng Nữ Vương), đóng đô ở Mê Linh, giành lại nền tự chủ trong 3 năm.",
+    "fact": "Mùa xuân năm 40, Hai Bà Trưng phất cờ khởi nghĩa tại Hát Môn, đánh đuổi thái thú Tô Định, giành lại nền độc lập tự chủ trong 3 năm.",
+    "questions": [
+      {
+        "q": "Hai Bà Trưng phất cờ khởi nghĩa chống lại ách đô hộ của triều đại phương Bắc nào?",
+        "options": ["Nhà Hán (Đông Hán)", "Nhà Tần", "Nhà Đường", "Nhà Tống"],
+        "answer": 0
+      },
+      {
+        "q": "Nơi Hai Bà Trưng lập đàn thề và chính thức phát động cuộc khởi nghĩa mùa xuân năm 40 là ở đâu?",
+        "options": ["Cửa sông Hát (Hát Môn)", "Thành Cổ Loa", "Hoa Lư", "Lam Sơn"],
+        "answer": 0
+      },
+      {
+        "q": "Viên thái thú tàn bạo của nhà Hán ở quận Giao Chỉ đã phải bỏ chạy về nước là ai?",
+        "options": ["Tô Định", "Mã Viện", "Cao Biền", "Trương Phụ"],
+        "answer": 0
+      },
+      {
+        "q": "Sau khi giành được thắng lợi, Trưng Trắc xưng vương và đóng đô ở đâu?",
+        "options": ["Mê Linh", "Thăng Long", "Phú Xuân", "Tây Đô"],
+        "answer": 0
+      },
+      {
+        "q": "Câu thơ nổi tiếng 'Một xin rửa sạch nước thù / Hai xin đem lại nghiệp xưa họ Hùng' nằm trong tác phẩm nào?",
+        "options": ["Thiên Nam ngữ lục", "Bình Ngô đại cáo", "Đại Việt sử ký toàn thư", "Hịch tướng sĩ"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "year": "938",
+    "era": "Thời kỳ Tự chủ",
+    "title": "Chiến thắng Bạch Đằng",
+    "location": "Sông Bạch Đằng (Hải Phòng - Quảng Ninh)",
+    "x": 512,
+    "y": 162,
+    "story": "Năm 938, vua Nam Hán sai con trai là Lưu Hoằng Tháo đem hàng vạn thủy binh tiến vào nước ta theo đường sông Bạch Đằng. Nắm rõ quy luật thủy triều lên xuống, Ngô Quyền cho quân đóng hàng nghìn cọc gỗ lớn đầu bịt sắt nhọn ngầm dưới lòng sông ở vùng cửa biển. Khi nước triều dâng che lấp bãi cọc, quân ta dùng thuyền nhẹ nhử địch vào trận địa. Lúc thủy triều rút nhanh, thuyền chiến giặc va vào cọc vỡ đắm hàng loạt, Lưu Hoằng Tháo tử trận. Chiến thắng Bạch Đằng năm 938 chấm dứt vĩnh viễn hơn 1000 năm Bắc thuộc, mở ra kỷ nguyên độc lập lâu dài; năm 939 Ngô Quyền xưng vương và đóng đô ở Cổ Loa.",
+    "fact": "Ngô Quyền dùng kế đóng cọc gỗ đầu bịt sắt nhọn dưới lòng sông Bạch Đằng, lợi dụng thủy triều đánh tan thủy binh Nam Hán, chấm dứt hơn 1000 năm Bắc thuộc.",
+    "questions": [
+      {
+        "q": "Quân xâm lược phương Bắc bị Ngô Quyền đánh bại trên sông Bạch Đằng năm 938 thuộc nước nào?",
+        "options": ["Nam Hán", "Bắc Tống", "Nguyên - Mông", "Nhà Minh"],
+        "answer": 0
+      },
+      {
+        "q": "Chủ tướng chỉ huy thủy binh giặc bị tử trận trong trận Bạch Đằng năm 938 là ai?",
+        "options": ["Lưu Hoằng Tháo", "Thoát Hoan", "Ô Mã Nhi", "Liễu Thăng"],
+        "answer": 0
+      },
+      {
+        "q": "Kế sách quân sự độc đáo nào giúp Ngô Quyền tiêu diệt toàn bộ chiến thuyền giặc?",
+        "options": ["Đóng cọc gỗ bịt sắt lợi dụng thủy triều", "Vườn không nhà trống", "Tiên phát chế nhân", "Hành quân thần tốc"],
+        "answer": 0
+      },
+      {
+        "q": "Ý nghĩa lịch sử vĩ đại nhất của chiến thắng Bạch Đằng năm 938 là gì?",
+        "options": ["Chấm dứt hơn 1000 năm Bắc thuộc, mở ra kỷ nguyên độc lập", "Đánh tan quân Nguyên - Mông", "Thống nhất Đàng Trong - Đàng Ngoài", "Lật đổ ách đô hộ nhà Minh"],
+        "answer": 0
+      },
+      {
+        "q": "Sau chiến thắng Bạch Đằng, năm 939 Ngô Quyền xưng vương và chọn nơi nào làm kinh đô?",
+        "options": ["Cổ Loa", "Hoa Lư", "Đại La", "Bạch Hạc"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "year": "968",
+    "era": "Nhà Đinh",
+    "title": "Dẹp loạn 12 sứ quân",
+    "location": "Kinh đô Hoa Lư (Ninh Bình)",
+    "x": 476,
+    "y": 182,
+    "story": "Cuối triều Ngô, đất nước rơi vào cảnh chia cắt hỗn loạn bởi 12 thế lực cát cứ địa phương (Loạn 12 sứ quân). Đinh Bộ Lĩnh — người anh hùng vùng Gia Viễn từng bày trò 'cờ lau tập trận' thuở nhỏ — đã liên kết các lực lượng, lần lượt đánh dẹp và thu phục toàn bộ 12 sứ quân. Năm 968, Đinh Bộ Lĩnh lên ngôi Hoàng đế (Đinh Tiên Hoàng), đặt quốc hiệu là Đại Cồ Việt, chọn vùng núi đá hiểm trở Hoa Lư (Ninh Bình) làm kinh đô, đặt niên hiệu Thái Bình và cho đúc đồng tiền đầu tiên của nước ta.",
+    "fact": "Đinh Bộ Lĩnh dẹp yên loạn 12 sứ quân, thống nhất giang sơn, lên ngôi Hoàng đế năm 968 và đặt quốc hiệu là Đại Cồ Việt.",
+    "questions": [
+      {
+        "q": "Ai là người có công dẹp loạn 12 sứ quân, thống nhất đất nước năm 968?",
+        "options": ["Đinh Bộ Lĩnh", "Lê Hoàn", "Lý Công Uẩn", "Ngô Xương Văn"],
+        "answer": 0
+      },
+      {
+        "q": "Sau khi lên ngôi Hoàng đế năm 968, Đinh Tiên Hoàng đặt tên nước là gì?",
+        "options": ["Đại Cồ Việt", "Vạn Xuân", "Đại Việt", "Đại Ngu"],
+        "answer": 0
+      },
+      {
+        "q": "Đinh Tiên Hoàng chọn vùng đất hiểm trở nào làm kinh đô của nước Đại Cồ Việt?",
+        "options": ["Hoa Lư (Ninh Bình)", "Cổ Loa (Hà Nội)", "Thăng Long", "Lam Kinh"],
+        "answer": 0
+      },
+      {
+        "q": "Thuở nhỏ ở vùng Gia Viễn, Đinh Bộ Lĩnh thường chơi trò gì cùng lũ trẻ chăn trâu?",
+        "options": ["Cờ lau tập trận", "Đấu vật", "Bắn cung", "Đua thuyền"],
+        "answer": 0
+      },
+      {
+        "q": "Nhà Đinh đã khẳng định vị thế độc lập ngang hàng với phương Bắc bằng việc làm nào?",
+        "options": ["Xưng Hoàng đế, đặt niên hiệu riêng và đúc tiền Thái Bình", "Cống nạp hàng năm", "Mượn quân nhà Tống", "Dời đô ra biển"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "year": "1010",
+    "era": "Nhà Lý",
+    "title": "Dời đô về Thăng Long",
+    "location": "Hoàng thành Thăng Long (Hà Nội)",
+    "x": 468,
+    "y": 158,
+    "story": "Cuối năm 1009, Lý Công Uẩn được triều thần suy tôn lên ngôi vua (Lý Thái Tổ), sáng lập vương triều Lý. Nhận thấy Hoa Lư núi non chật hẹp, không thuận lợi cho công cuộc mở mang đất nước lâu dài, mùa thu năm 1010 vua ban 'Chiếu dời đô', quyết định chuyển kinh đô ra thành Đại La — nơi trung tâm đất trời, địa thế rộng phẳng. Khi thuyền rồng cập bến, thấy điềm rồng vàng bay lên, vua đổi tên kinh đô mới là Thăng Long (Rồng bay lên). Đến đời vua Lý Thánh Tông năm 1054, quốc hiệu đổi thành Đại Việt.",
+    "fact": "Mùa thu năm 1010, vua Lý Thái Tổ ban Chiếu dời đô từ Hoa Lư ra thành Đại La, thấy rồng vàng bay lên nên đổi tên kinh đô là Thăng Long.",
+    "questions": [
+      {
+        "q": "Vị vua sáng lập triều Lý và ban Chiếu dời đô năm 1010 là ai?",
+        "options": ["Lý Công Uẩn (Lý Thái Tổ)", "Lý Thánh Tông", "Lý Nhân Tông", "Lý Thường Kiệt"],
+        "answer": 0
+      },
+      {
+        "q": "Trước khi đổi tên thành Thăng Long, vùng đất này có tên gọi là gì?",
+        "options": ["Thành Đại La", "Thành Cổ Loa", "Kinh đô Hoa Lư", "Thành Tây Đô"],
+        "answer": 0
+      },
+      {
+        "q": "Vì sao Lý Thái Tổ quyết định dời đô từ Hoa Lư ra Đại La?",
+        "options": ["Đại La ở trung tâm đất nước, địa thế rộng phẳng, thuận lợi phát triển", "Hoa Lư bị giặc chiếm", "Do hạn hán kéo dài", "Để gần biên giới phía Bắc"],
+        "answer": 0
+      },
+      {
+        "q": "Tên gọi 'Thăng Long' mang ý nghĩa gì?",
+        "options": ["Rồng bay lên", "Rồng hạ xuống", "Phượng hoàng múa", "Hổ phục"],
+        "answer": 0
+      },
+      {
+        "q": "Đến đời vua Lý Thánh Tông (năm 1054), quốc hiệu nước ta được đổi thành gì?",
+        "options": ["Đại Việt", "Đại Cồ Việt", "Việt Nam", "Đại Nam"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "year": "1077",
+    "era": "Nhà Lý",
+    "title": "Phòng tuyến sông Như Nguyệt",
+    "location": "Sông Cầu (Bắc Ninh)",
+    "x": 484,
+    "y": 146,
+    "story": "Năm 1075, trước âm mưu xâm lược Đại Việt của nhà Tống, Thái úy Lý Thường Kiệt chủ động thực hiện kế sách 'Tiên phát chế nhân' (ngồi yên đợi giặc không bằng đem quân đánh trước để chặn thế mạnh của giặc), tấn công phá hủy các căn cứ lương thảo ở Ung Châu, Khâm Châu, Liêm Châu. Đầu năm 1077, 30 vạn quân Tống tiến xuống nhưng bị chặn đứng trước phòng tuyến kiên cố bên bờ nam sông Như Nguyệt (sông Cầu, Bắc Ninh). Đêm đêm, từ đền Trương Hát vang lên bài thơ thần 'Nam quốc sơn hà', khích lệ quân ta tổng phản công đánh tan quân Tống rồi chủ động giảng hòa để giữ hòa hiếu.",
+    "fact": "Lý Thường Kiệt chủ động lập phòng tuyến bên bờ nam sông Như Nguyệt, đọc vang bài thơ thần 'Nam quốc sơn hà', đánh bại 30 vạn quân Tống xâm lược.",
+    "questions": [
+      {
+        "q": "Danh tướng nhà Lý chỉ huy cuộc kháng chiến chống Tống trên sông Như Nguyệt là ai?",
+        "options": ["Lý Thường Kiệt", "Tôn Đản", "Lý Kế Nguyên", "Trần Hưng Đạo"],
+        "answer": 0
+      },
+      {
+        "q": "Sông Như Nguyệt ngày nay tương ứng với đoạn sông nào ở tỉnh Bắc Ninh?",
+        "options": ["Sông Cầu", "Sông Đuống", "Sông Lục Nam", "Sông Thái Bình"],
+        "answer": 0
+      },
+      {
+        "q": "Trước khi quân Tống sang xâm lược, Lý Thường Kiệt đã thực hiện chủ trương độc đáo gì?",
+        "options": ["Tiên phát chế nhân (đánh sang đất Tống trước để phá thế giặc)", "Rút lui bảo toàn lực lượng", "Cầu hòa cắt đất", "Đóng cửa cố thủ"],
+        "answer": 0
+      },
+      {
+        "q": "Bài thơ thần nào được đọc vang trong đền Trương Hát bên bờ sông Như Nguyệt?",
+        "options": ["Nam quốc sơn hà", "Hịch tướng sĩ", "Bình Ngô đại cáo", "Phò giá về kinh"],
+        "answer": 0
+      },
+      {
+        "q": "Kết thúc trận Như Nguyệt, Lý Thường Kiệt đã chủ động kết thúc chiến tranh bằng cách nào?",
+        "options": ["Chủ động giảng hòa để giữ thể diện cho quân Tống rút về nước", "Truy kích sang tận Biện Kinh", "Bắt giết toàn bộ tù binh", "Nhường 2 châu Quảng Nguyên"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "year": "1288",
+    "era": "Nhà Trần",
+    "title": "Đại thắng Bạch Đằng lần 3",
+    "location": "Sông Bạch Đằng",
+    "x": 518,
+    "y": 168,
+    "story": "Thế kỷ XIII, đế quốc Nguyên - Mông 3 lần đem đại quân xâm lược Đại Việt (1258, 1285, 1288). Dưới sự lãnh đạo của vua Trần và Quốc công Tiết chế Trần Quốc Tuấn (Trần Hưng Đạo), toàn dân đoàn kết một lòng qua Hội nghị Diên Hồng với tiếng hô vang 'Đánh!', kết hợp câu nói bất hủ của Trần Thủ Độ 'Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo'. Năm 1288, Trần Khánh Dư đánh chìm đoàn thuyền lương của Trương Văn Hổ tại Vân Đồn, đẩy quân Nguyên vào cảnh thiếu đói, sau đó Trần Hưng Đạo bày trận cọc gỗ trên sông Bạch Đằng tiêu diệt toàn bộ thủy binh địch.",
+    "fact": "Hưng Đạo Đại Vương Trần Quốc Tuấn tái hiện trận địa cọc Bạch Đằng năm 1288, tiêu diệt toàn bộ đoàn thuyền lương của Trương Văn Hổ, đánh tan quân Nguyên.",
+    "questions": [
+      {
+        "q": "Quân dân nhà Trần đã mấy lần đánh thắng quân xâm lược Nguyên - Mông?",
+        "options": ["3 lần (1258, 1285, 1288)", "2 lần", "4 lần", "1 lần"],
+        "answer": 0
+      },
+      {
+        "q": "Ai là Quốc công Tiết chế tổng chỉ huy quân đội nhà Trần chống Nguyên - Mông?",
+        "options": ["Trần Quốc Tuấn (Trần Hưng Đạo)", "Trần Quang Khải", "Trần Nhật Duật", "Trần Thủ Độ"],
+        "answer": 0
+      },
+      {
+        "q": "Hội nghị nào thể hiện sự đoàn kết đồng lòng 'Đánh!' của các bô lão cả nước thời Trần?",
+        "options": ["Hội nghị Diên Hồng", "Hội nghị Bình Than", "Hội thề Lũng Nhai", "Hội thề Đông Quan"],
+        "answer": 0
+      },
+      {
+        "q": "Tướng giặc nào chỉ huy đoàn thuyền lương bị Trần Khánh Dư đánh chìm ở Vân Đồn?",
+        "options": ["Trương Văn Hổ", "Thoát Hoan", "Toa Đô", "Ngột Lương Hợp Thai"],
+        "answer": 0
+      },
+      {
+        "q": "Câu nói bất hủ 'Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo' là của ai?",
+        "options": ["Trần Thủ Độ", "Trần Bình Trọng", "Trần Quốc Toản", "Phạm Ngũ Lão"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "year": "1427",
+    "era": "Khởi nghĩa Lam Sơn",
+    "title": "Chiến thắng Chi Lăng - Xương Giang",
+    "location": "Ải Chi Lăng (Lạng Sơn)",
+    "x": 496,
+    "y": 122,
+    "story": "Đầu thế kỷ XV, nhà Minh đô hộ nước ta tàn bạo. Năm 1418, Lê Lợi dựng cờ khởi nghĩa ở vùng núi Lam Sơn (Thanh Hóa) cùng quân sư Nguyễn Trãi. Những ngày đầu gian khổ ở Chí Linh, tướng Lê Lai đã liều mình mặc áo bào giả làm Lê Lợi để cứu chúa thoát vòng vây. Cuối năm 1427, nhà Minh sai Liễu Thăng đem 15 vạn viện binh sang cứu nguy; quân Lam Sơn phục kích tại ải Chi Lăng chém đầu Liễu Thăng, thừa thắng hạ thành Xương Giang. Vương Thông ở Đông Quan buộc phải xin hàng tại Hội thề Đông Quan và rút quân về nước.",
+    "fact": "Chiến thắng Chi Lăng - Xương Giang đập tan 15 vạn viện binh nhà Minh, chém đầu Liễu Thăng, buộc Vương Thông phải xin hàng và rút quân về nước.",
+    "questions": [
+      {
+        "q": "Lãnh tụ tối cao của cuộc khởi nghĩa Lam Sơn chống quân Minh là ai?",
+        "options": ["Lê Lợi", "Nguyễn Trãi", "Lê Lai", "Trần Nguyên Hãn"],
+        "answer": 0
+      },
+      {
+        "q": "Tướng giặc Minh nào bị quân Lam Sơn phục kích chém đầu tại ải Chi Lăng?",
+        "options": ["Liễu Thăng", "Mộc Thạnh", "Vương Thông", "Trương Phụ"],
+        "answer": 0
+      },
+      {
+        "q": "Ai là quân sư kiệt xuất của Lê Lợi và là tác giả bài 'Bình Ngô đại cáo'?",
+        "options": ["Nguyễn Trãi", "Nguyễn Bỉnh Khiêm", "Lương Thế Vinh", "Ngô Sĩ Liên"],
+        "answer": 0
+      },
+      {
+        "q": "Vị anh hùng nào đã liều mình mặc áo bào giả làm Lê Lợi để cứu chúa thoát vòng vây?",
+        "options": ["Lê Lai", "Đinh Liệt", "Lê Sát", "Nguyễn Xí"],
+        "answer": 0
+      },
+      {
+        "q": "Sau chiến thắng, Vương Thông phải làm gì tại Hội thề Đông Quan tháng 12/1427?",
+        "options": ["Xin hàng và rút toàn bộ quân Minh về nước", "Cố thủ chờ viện binh", "Chia đôi đất nước", "Đầu quân cho nhà Lê"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "year": "1789",
+    "era": "Nhà Tây Sơn",
+    "title": "Đại phá quân Thanh",
+    "location": "Gò Đống Đa (Hà Nội)",
+    "x": 462,
+    "y": 166,
+    "story": "Sau khi đại thắng 5 vạn quân Xiêm tại Rạch Gầm - Xoài Mút (1785), cuối năm 1788 Nguyễn Huệ đối mặt với 29 vạn quân Thanh do Tôn Sĩ Nghị chỉ huy tiến chiếm Thăng Long. Tháng 12/1788, Nguyễn Huệ lập đàn tế cáo trời đất tại Núi Bân (Phú Xuân - Huế), lên ngôi Hoàng đế lấy niên hiệu Quang Trung rồi chỉ huy đại quân hành quân thần tốc ra Bắc. Đúng dịp Tết Nguyên Đán Kỷ Dậu 1789, chỉ trong 5 ngày đêm từ 30 Tết đến mùng 5 Tết, quân Tây Sơn hạ đồn Ngọc Hồi và đồn Đống Đa, giải phóng Thăng Long.",
+    "fact": "Chỉ trong 5 ngày Tết Kỷ Dậu 1789, vua Quang Trung chỉ huy cuộc hành quân thần tốc đại phá 29 vạn quân Thanh, giải phóng kinh thành Thăng Long.",
+    "questions": [
+      {
+        "q": "Nguyễn Huệ lên ngôi Hoàng đế lấy niên hiệu Quang Trung tại đâu trước khi tiến quân ra Bắc?",
+        "options": ["Núi Bân (Phú Xuân - Huế)", "Quy Nhơn", "Tam Điệp", "Thăng Long"],
+        "answer": 0
+      },
+      {
+        "q": "Cuộc đại phá 29 vạn quân Thanh diễn ra vào dịp lễ nào năm 1789?",
+        "options": ["Tết Nguyên Đán Kỷ Dậu", "Tết Trung Thu", "Tết Đoan Ngọ", "Lễ Thanh Minh"],
+        "answer": 0
+      },
+      {
+        "q": "Chủ tướng chỉ huy 29 vạn quân Thanh sang xâm lược nước ta là ai?",
+        "options": ["Tôn Sĩ Nghị", "Sầm Nghi Đống", "Hứa Thế Hanh", "Ô Đại Kinh"],
+        "answer": 0
+      },
+      {
+        "q": "Hai đồn lũy then chốt của quân Thanh bị nghĩa quân Tây Sơn hạ gục sáng mùng 5 Tết là gì?",
+        "options": ["Đồn Ngọc Hồi và đồn Đống Đa", "Đồn Hà Hồi và đồn Phú Xuyên", "Ải Chi Lăng", "Thành Cổ Loa"],
+        "answer": 0
+      },
+      {
+        "q": "Trước đó năm 1785, Nguyễn Huệ cũng đã lập chiến công vang dội nào ở miền Nam?",
+        "options": ["Đại thắng Rạch Gầm - Xoài Mút (đánh tan 5 vạn quân Xiêm)", "Trận Ngọc Hồi", "Trận Bạch Đằng", "Trận Như Nguyệt"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "year": "1954",
+    "era": "Kháng chiến chống Pháp",
+    "title": "Chiến thắng Điện Biên Phủ",
+    "location": "Mường Thanh (Điện Biên)",
+    "x": 388,
+    "y": 146,
+    "story": "Cuối năm 1953, thực dân Pháp xây dựng Điện Biên Phủ thành tập đoàn cứ điểm mạnh nhất Đông Dương. Đại tướng Võ Nguyên Giáp được giao làm Tổng Tư lệnh trực tiếp chỉ huy chiến dịch. Trước giờ nổ súng, Đại tướng đưa ra quyết định lịch sử chuyển phương châm từ 'Đánh nhanh, thắng nhanh' sang 'Đánh chắc, tiến chắc'. Sau 56 ngày đêm khoét núi ngủ hầm (13/3 - 7/5/1954), chiều 7/5/1954 quân ta đánh chiếm hầm chỉ huy, bắt sống tướng De Castries, buộc Pháp ký Hiệp định Giơ-ne-vơ chấm dứt chiến tranh.",
+    "fact": "Sau 56 ngày đêm khoét núi ngủ hầm, chiều 7/5/1954 quân ta bắt sống tướng De Castries, làm nên chiến thắng Điện Biên Phủ lừng lẫy năm châu.",
+    "questions": [
+      {
+        "q": "Ai là Tổng Tư lệnh trực tiếp chỉ huy chiến dịch Điện Biên Phủ năm 1954?",
+        "options": ["Đại tướng Võ Nguyên Giáp", "Đại tướng Nguyễn Chí Thanh", "Đại tướng Văn Tiến Dũng", "Đại tướng Lê Trọng Tấn"],
+        "answer": 0
+      },
+      {
+        "q": "Quyết định chiến lược khó khăn nhất của Đại tướng Võ Nguyên Giáp tại Điện Biên Phủ là gì?",
+        "options": ["Chuyển từ 'Đánh nhanh, thắng nhanh' sang 'Đánh chắc, tiến chắc'", "Rút quân về Việt Bắc", "Chỉ đánh ban ngày", "Dùng thủy quân tấn công"],
+        "answer": 0
+      },
+      {
+        "q": "Chiến dịch Điện Biên Phủ diễn ra trong bao nhiêu ngày đêm?",
+        "options": ["56 ngày đêm (13/3 - 7/5/1954)", "12 ngày đêm", "30 ngày đêm", "81 ngày đêm"],
+        "answer": 0
+      },
+      {
+        "q": "Viên tướng chỉ huy tập đoàn cứ điểm Điện Biên Phủ của Pháp bị ta bắt sống là ai?",
+        "options": ["De Castries (Đờ Cát-xtơ-ri)", "Navarre", "Salan", "Leclerc"],
+        "answer": 0
+      },
+      {
+        "q": "Thắng lợi Điện Biên Phủ buộc thực dân Pháp phải ký hiệp định nào chấm dứt chiến tranh?",
+        "options": ["Hiệp định Giơ-ne-vơ (1954)", "Hiệp định Pa-ri (1973)", "Hiệp định Sơ bộ (1946)", "Tạm ước 14/9"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "year": "1975",
+    "era": "Kháng chiến chống Mỹ",
+    "title": "Đại thắng Mùa Xuân 1975",
+    "location": "Dinh Độc Lập (TP. Hồ Chí Minh)",
+    "x": 518,
+    "y": 548,
+    "story": "Mùa Xuân năm 1975, quân và dân ta mở cuộc Tổng tiến công và nổi dậy giải phóng hoàn toàn miền Nam. Mở màn là Chiến dịch Tây Nguyên với trận then chốt giải phóng Buôn Ma Thuột, tiếp nối bằng Chiến dịch Huế - Đà Nẵng, và đỉnh cao là Chiến dịch Hồ Chí Minh lịch sử tiến công giải phóng Sài Gòn - Gia Định. Đúng 11 giờ 30 phút ngày 30/4/1975, đại đội trưởng Bùi Quang Thận cắm lá cờ giải phóng lên nóc Dinh Độc Lập, hoàn thành sự nghiệp thống nhất non sông đất nước.",
+    "fact": "11 giờ 30 phút ngày 30/4/1975, lá cờ giải phóng tung bay trên nóc Dinh Độc Lập, kết thúc thắng lợi chiến dịch Hồ Chí Minh, thống nhất đất nước.",
+    "questions": [
+      {
+        "q": "Cuộc Tổng tiến công và nổi dậy Mùa Xuân 1975 mở màn bằng chiến dịch nào?",
+        "options": ["Chiến dịch Tây Nguyên (trận then chốt Buôn Ma Thuột)", "Chiến dịch Huế - Đà Nẵng", "Chiến dịch Hồ Chí Minh", "Chiến dịch Đường 9"],
+        "answer": 0
+      },
+      {
+        "q": "Chiến dịch lịch sử cuối cùng giải phóng Sài Gòn - Gia Định mang tên gì?",
+        "options": ["Chiến dịch Hồ Chí Minh", "Chiến dịch Điện Biên Phủ", "Chiến dịch Biên giới", "Chiến dịch Việt Bắc"],
+        "answer": 0
+      },
+      {
+        "q": "Lá cờ giải phóng tung bay trên nóc Dinh Độc Lập vào thời khắc lịch sử nào?",
+        "options": ["11 giờ 30 phút ngày 30/4/1975", "17 giờ 30 phút ngày 7/5/1954", "02/09/1945", "19/05/1975"],
+        "answer": 0
+      },
+      {
+        "q": "Người chiến sĩ cắm lá cờ giải phóng trên nóc Dinh Độc Lập trưa 30/4/1975 là ai?",
+        "options": ["Bùi Quang Thận", "Nguyễn Văn Tập", "Vũ Đăng Toàn", "Phạm Xuân Thệ"],
+        "answer": 0
+      },
+      {
+        "q": "Ý nghĩa lịch sử to lớn nhất của Đại thắng Mùa Xuân 1975 là gì?",
+        "options": ["Hoàn thành giải phóng miền Nam, thống nhất đất nước, mở ra kỷ nguyên độc lập thống nhất", "Kết thúc thời kỳ Bắc thuộc", "Đánh bại thực dân Pháp", "Thành lập nước Đại Việt"],
+        "answer": 0
+      }
+    ]
+  }
+]
