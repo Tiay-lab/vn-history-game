@@ -696,7 +696,7 @@ class VietnamHistoryGame:
             err = self.f_small.render(self.status_msg, True, msg_color)
             self.screen.blit(err, (WIDTH // 2 - err.get_width() // 2, btn_go.bottom + 10))
         elif self.auth_tab == "LOGIN":
-            hint_adm = self.f_badge.render("Tài khoản Quản trị (Admin): admin  |  Mật khẩu: 123", True, INK_MUTED)
+            hint_adm = self.f_badge.render("vui lòng đăng nhập", True, INK_MUTED)
             self.screen.blit(hint_adm, (WIDTH // 2 - hint_adm.get_width() // 2, btn_go.bottom + 14))
 
     # ==================== RENDER ADMIN DASHBOARD ====================
