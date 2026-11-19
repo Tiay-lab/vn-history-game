@@ -195,6 +195,17 @@ class VietnamHistoryGame:
         pygame.display.set_caption("Sử Ký Việt Nam - Khám Phá Lịch Sử Dân Tộc")
         self.clock = pygame.time.Clock()
         self.sfx = SoundBank()
+        # Tải và cắt tròn ảnh trống đồng
+        try:
+            raw_drum = pygame.image.load(os.path.join(BASE_DIR, "assets", "trong_dong.png")).convert_alpha()
+            DRUM_SIZE = 320
+            raw_drum = pygame.transform.smoothscale(raw_drum, (DRUM_SIZE, DRUM_SIZE))
+            self.drum_img = pygame.Surface((DRUM_SIZE, DRUM_SIZE), pygame.SRCALPHA)
+            pygame.draw.circle(self.drum_img, (255, 255, 255, 255), (DRUM_SIZE // 2, DRUM_SIZE // 2), DRUM_SIZE // 2)
+            self.drum_img.blit(raw_drum, (0, 0), special_flags=pygame.BLEND_RGBA_MIN)
+        except Exception as e:
+            print("Lỗi tải trống đồng:", e)
+            self.drum_img = None
 
         font_path = os.path.join(BASE_DIR, "assets", "Roboto-Regular.ttf")
         if not os.path.exists(font_path):
@@ -619,6 +630,9 @@ class VietnamHistoryGame:
         pygame.draw.circle(self.screen, (234, 226, 210), (200, 180), 170)
         pygame.draw.circle(self.screen, (234, 226, 210), (1100, 560), 210)
         pygame.draw.circle(self.screen, GOLD, (200, 180), 170, width=2)
+        if self.drum_img is not None:
+            drum_rect = self.drum_img.get_rect(center=(200, 180))
+            self.screen.blit(self.drum_img, drum_rect)
 
         card_h = 525 if self.auth_tab == "REGISTER" else 450
         card_y = (HEIGHT - card_h) // 2
